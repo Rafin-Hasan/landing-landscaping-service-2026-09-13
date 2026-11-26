@@ -17,3 +17,12 @@ npm run dev
 - Fully responsive layout from mobile to desktop
 - Keyboard-accessible navigation, visible focus states and reduced-motion support
 - Email signup with inline confirmation
+
+## Build for production
+
+```bash
+npm run build
+npm run preview
+```
+
+The optimized site is written to `dist/`.
